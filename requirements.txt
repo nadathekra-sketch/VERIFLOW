@@ -1,0 +1,3 @@
+streamlit
+sqlalchemy
+argon2-cffi
